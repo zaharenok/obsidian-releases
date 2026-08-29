@@ -49593,5 +49593,12 @@
     "author": "Sanket Saurav",
     "description": "Share individual notes publicly on your own domain via a self-hosted Outcrop server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sanketsaurav/outcrop"
+  },
+  {
+    "id": "autotitle",
+    "name": "AutoTitle",
+    "author": "zaharenok",
+    "description": "Automatically generate titles for Obsidian notes using latest OpenAI models (GPT-4.1, GPT-4.1 mini, GPT-4o, GPT-4o-mini)",
+    "repo": "zaharenok/autotitle_obsidian_plugin"
   }
 ]
